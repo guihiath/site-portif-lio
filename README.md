@@ -1,20 +1,20 @@
 ```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+#Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
 
-## Ferramentas utilizadas:
+##Ferramentas utilizadas:
 
-* HTML
+*HTML
 
-* CSS
+*CSS
 
-* Flex-box
+*Flex-box
 
-## Feito por:
+##Feito por:
 
-### Guilherme Hiath
+###Guilherme Hiath
 
 ### Linkedin: https://www.linkedin.com/in/guilhermehiath/
 
